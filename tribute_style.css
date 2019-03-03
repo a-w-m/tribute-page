@@ -170,7 +170,17 @@ li {
 	margin-bottom: 2%;
 	background-color:white;
 	border: 4vw solid white;
+	width: 100%;
+	padding-top: -2%; 
 }
+
+.subtitle {
+	text-align: center;
+	font-weight: 500;
+	font-size: 8vw;
+	margin-top: -2.5%
+	background-color:white;
+	width: 100%;
 
 .tribute-item{
 	flex:1;
