@@ -1,0 +1,115 @@
+body, html{
+	background-color: #ff9b05;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+}
+#title {
+	text-align: center;
+	font-size: 8vw;
+	font-weight: 500;
+	margin-bottom: 0vw;
+}
+
+.subtitle {
+	text-align: center;
+	font-weight: 300;
+	font-size: 5vw;
+}
+
+.quote{
+	text-align: center;
+	font-size: 3vw;
+	margin: 2.5% 5%;
+}
+
+#album-info {
+	display: flex;
+	padding: 10% 0;
+	min-width: 100vh;
+	
+}
+
+
+
+.track-list-left{
+
+	font-family: 'Roboto', sans-serif;
+	font-size: 1.75vw;
+	opacity: .8;
+	padding-top: 15vw;
+	flex: 1;
+	padding-left: 2%;
+	border: .25vw solid black;
+	border-radius: 2vw;
+	
+}
+
+.track-list-right{
+	
+	flex: 1;
+	font-family: 'Roboto', sans-serif;
+	font-size: 1.75vw;
+	opacity: .8;
+	padding-top: 15vw;
+	border: .25vw solid black;
+	border-radius: 2vw;
+}
+
+#img-div{
+	flex: 3;
+	padding-left: 4%;
+	text-align: center;
+	
+}
+
+#image{
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin: auto;
+}
+
+#img-caption{
+	font-family: 'Roboto', sans-serif;
+	font-size: 1.5vw;
+	opacity: .8;
+	margin-top: 2.5%;
+	margin-right: 4.5%;
+	margin-left: 4.5%;
+	white-space: pre-line;
+	padding: 0 5%;
+	max-width: 100%
+}
+
+
+li {
+	list-style-type: none;
+}
+
+#tribute-info{
+	display: flex;
+	flex-wrap: wrap;
+	margin: 5% auto;
+	width: 75vw;
+	justify-content: center;
+}
+
+.tribute-item{
+	font-family: 'Roboto', sans-serif;
+	font-size: 1.75vw;
+	color: black;
+	width: 33%;
+	margin: 5% 5%;
+	border: .25vw solid black;
+	border-radius: 1.5vw;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+		
+}
+
+#tribute-link{
+	text-align: center;
+	font-weight: 300;
+	font-size: 2vw;
+}
+
