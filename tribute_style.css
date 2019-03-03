@@ -170,13 +170,12 @@ li {
 	margin-bottom: 2%;
 	background-color:white;
 	border: 4vw solid white;
-	width: 100%; 
 }
 
 .subtitle {
 	text-align: center;
 	font-weight: 500;
-	font-size: 6vw;
+	font-size: 5vw;
 	margin-top: -2.5%;
 	background-color:white;
 	width: 100%;
@@ -186,7 +185,7 @@ li {
 .tribute-item{
 	flex:1;
 	font-family: 'Roboto', sans-serif;
-	font-size: 7vw;
+	font-size: 4vw;
 	color: black;
 	width: 100%;
 	margin: 5% 0;
