@@ -130,6 +130,7 @@ li {
 		flex-direction: column;
 		width: 100%;
 		align-items:center;
+		
 	
 	}
 
@@ -140,7 +141,7 @@ li {
 		opacity: .8;
 		border: .25vw solid red;
 		border-radius: 2vw;
-	
+		text-align: center;
 	
 	}
 
@@ -153,6 +154,7 @@ li {
 	padding-top: 15vw;
 	border: .25vw solid black;
 	border-radius: 2vw;
+	text-align: center;
 	
 	}
 	
