@@ -141,11 +141,9 @@ li {
 	
 	}
 
-	.track-list-two{
+	div.track-list-two{
 	
-	flex: 0;
-	font-family: 'Roboto', sans-serif;
-	font-size: 0vw;
+	display: none;
 	
 	}
 	
