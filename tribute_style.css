@@ -8,7 +8,7 @@ body, html{
 	font-size: 8vw;
 	font-weight: 500;
 	margin-bottom: 0vw;
-	background-color: gray;
+	background-color: white;
 }
 
 .subtitle {
@@ -167,10 +167,9 @@ li {
 .quote{
 	text-align: center;
 	font-size: 4vw;
-	margin-top: 5%;
 	margin-bottom: 2%;
 	background-color:white;
-	border: 1vw solid white;
+	border: 4vw solid white;
 }
 
 .tribute-item{
@@ -178,10 +177,10 @@ li {
 	font-family: 'Roboto', sans-serif;
 	font-size: 7vw;
 	color: black;
-	width: 50%;
-	margin: 2.0% 0;
-	border: .30vw solid black;
-	border-radius: 1.5vw;
+	width: 100%;
+	margin: 5% 0;
+	border: 1vw solid black;
+	border-radius: 2vw;
 	padding: 1% 0;
 	text-align:center;
 		
