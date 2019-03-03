@@ -29,7 +29,7 @@ body, html{
 
 
 
-.track-list-left{
+.track-list-one{
 	flex: 1;
 	font-family: 'Roboto', sans-serif;
 	font-size: 1.75vw;
@@ -41,7 +41,7 @@ body, html{
 	
 }
 
-.track-list-right{
+.track-list-two{
 	
 	flex: 1;
 	font-family: 'Roboto', sans-serif;
@@ -129,13 +129,14 @@ li {
 		display: flex;
 		flex-direction: column;
 		width: 100%;
+		align-items:center;
 	
 	}
 
-	.track-list-left{
+	.track-list-one{
 		flex: 1;
 		font-family: 'Roboto', sans-serif;
-		font-size: 1.75vw;
+		font-size: 10vw;
 		opacity: .8;
 		border: .25vw solid red;
 		border-radius: 2vw;
@@ -143,11 +144,11 @@ li {
 	
 	}
 
-	.track-list-right{
+	.track-list-two{
 	
 	flex: 1;
 	font-family: 'Roboto', sans-serif;
-	font-size: 1.75vw;
+	font-size: 10vw;
 	opacity: .8;
 	padding-top: 15vw;
 	border: .25vw solid black;
