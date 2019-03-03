@@ -135,9 +135,7 @@ li {
 	}
 
 	.track-list-one{
-		flex: 0;
-		font-family: 'Roboto', sans-serif;
-		font-size: 0vw;
+		display: none;
 	
 	}
 
@@ -150,9 +148,43 @@ li {
 	#img-div{
 	flex: 1;
 	text-align: center;
-	
+	msrgin: 5% 0;
 	
 }
+
+#img-caption{
+	font-family: 'Roboto', sans-serif;
+	font-size: 4vw;
+	opacity: .8;
+	margin-top: 2.5%;
+	margin-right: 4.5%;
+	margin-left: 4.5%;
+	white-space: pre-line;
+	padding: 0 5%;
+	max-width: 100%;
+}
+	
+.quote{
+	text-align: center;
+	font-size: 4vw;
+	margin-top: 5%;
+	margin-bottom: 2%;
+	background-color:white;
+	border: 1vw solid white;
+}
+
+.tribute-item{
+	flex:1;
+	font-family: 'Roboto', sans-serif;
+	font-size: 7vw;
+	color: black;
+	width: 50%;
+	margin: 2.0% 0;
+	border: .30vw solid black;
+	border-radius: 1.5vw;
+	padding: 1% 0;
+	text-align:center;
+		
 	
 }
 
