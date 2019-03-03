@@ -141,14 +141,13 @@ li {
 
 	div.track-list-two{
 	
-	display: none;
+		display: none;
 	
 	}
 	
 	#img-div{
 	flex: 1;
 	text-align: center;
-	msrgin: 5% 0;
 	
 }
 
