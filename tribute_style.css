@@ -177,9 +177,8 @@ h2.subtitle {
 	text-align: center;
 	font-weight: 500;
 	font-size: 6vw;
-	margin-top: -2.5%;
+	margin: -2.5% 0;
 	background-color:white;
-	border: 2vw solid white;
 	width: 100%;
 	
 }
